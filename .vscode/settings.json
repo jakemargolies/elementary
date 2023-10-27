@@ -1,0 +1,4 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/cpp",
+    "cmake.configureOnOpen": true
+}
